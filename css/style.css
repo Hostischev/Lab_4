@@ -417,3 +417,12 @@ p.response {
 	line-height:1.8em;
 	width:auto;
 }
+.error {
+    border: 2px solid red !important;
+}
+
+.error-message {
+    color: red;
+    font-size: 0.9em;
+    margin-top: 5px;
+}
